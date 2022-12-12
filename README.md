@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @StojanovJDM
+- 👀 I’m interested in almost everything
+- 🌱 I’m currently learning html, css and js
+- 📫 How to reach me: 
+- instagram: @stojanov.jdm
+- email: ristestojanov0504@gmail.com
